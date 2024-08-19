@@ -1,7 +1,3 @@
-Certainly! Below is a template for a README file for a project using Streamlit, Python, Upstage, and LangChain. Feel free to customize it according to your project's specifics.
-
----
-
 # Clinically AI - Health Management System
 
 ## Overview
